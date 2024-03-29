@@ -1,3 +1,12 @@
+# Anime List
+
+## Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Node JS installed on your system. If not, download and install it from the [official Node website](https://nodejs.org/en/download).
+
+
 ## Setup Instructions
 
 1. Clone the repository
